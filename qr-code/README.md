@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [View Solution](https://frontend-u2oq.vercel.app/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://kunal1943.github.io/Frontend/qr-code/)
 
 ## My process
 
@@ -44,8 +44,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Kunal Keshri](https://www.your-site.com)
+- Frontend Mentor - [@kunal1943](https://www.frontendmentor.io/profile/kunal1943)
 
 ## Acknowledgments
 
