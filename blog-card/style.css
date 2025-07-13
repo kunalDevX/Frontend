@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: hsl(47, 88%, 63%);
+  font-family: "Figtree", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 16px;
+}
+.container {
+  background-color: hsl(0, 0%, 100%);
+  max-width: 377px;
+  height: fit-content;
+  padding: 20px;
+  border-radius: 20px;
+  border: 1px solid black;
+  box-shadow: 8px 8px 1px black;
+}
+.card {
+  margin-bottom: 10px;
+}
+.card img{
+  width: 100%;
+  border-radius: 20px;
+}
+.text .heading {
+  background-color: hsl(47, 88%, 63%);
+  font-weight: bold;
+  width: fit-content;
+  padding: 4px;
+  border-radius: 4px;
+}
+.text p {
+  padding: 8px 0;
+}
+.text h2 {
+  padding: 4px 0;
+  color: black;
+  transition: color 0.3s ease;
+  cursor: pointer;
+}
+.text h2:hover {
+  color: hsl(47, 88%, 63%);
+}
+.text .content {
+  padding: 10px 0;
+  color: hsl(0, 0%, 42%);
+}
+.author {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 0;
+}
+.author img {
+  width: 32px;
+  height: 32px;
+}
+.author span{
+  font-weight: bold;
+  font-size: 14px;
+}
+@media (max-width:600px) {
+  .container{
+    width: 90%;
+    padding: 10px;
+    font-size: 14px;
+  }
+}
+
+
