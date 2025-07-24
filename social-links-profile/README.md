@@ -22,8 +22,8 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://kunal1943.github.io/Frontend/social-links-profile/)
+- Live Site URL: [live site URL here](https://frontend-uwr8.vercel.app/)
 
 ## My process
 
@@ -38,4 +38,4 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ## Author
 
 - Website - [Kunal Keshri](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kunal1943)
+- Frontend Mentor - [@kunal1943](https://www.frontendmentor.io/profile/kunal1943)
