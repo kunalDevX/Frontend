@@ -22,7 +22,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Solution URL here](https://kunal1943.github.io/Frontend/social-links-profile/)
+- Solution URL: [Solution URL here](https://kunalDevX.github.io/Frontend/social-links-profile/)
 - Live Site URL: [live site URL here](https://frontend-uwr8.vercel.app/)
 
 ## My process
