@@ -60,6 +60,6 @@ Here’s an example of the hover effect:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Kunal Keshri](https://www.your-site.com)
 - Frontend Mentor - [@kunal1943](https://www.frontendmentor.io/profile/kunal1943)
 
