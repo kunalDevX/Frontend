@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://frontend-1pit.vercel.app/)
-- Live Site URL: [Live site URL here](https://kunal1943.github.io/Frontend/blog-card/)
+- Live Site URL: [Live site URL here](https://kunalDevX.github.io/Frontend/blog-card/)
 
 ## My process
 
